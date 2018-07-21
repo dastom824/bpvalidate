@@ -1,14 +1,14 @@
 key,label_en,label_zh
 class_general,General Info,基本信息
-class_regproducer,Regproducer,注册出块节点
+class_regproducer,Regproducer,注册的出块节点
 class_org,Organization,机构
 class_endpoint,Endpoints,终端
 class_ipv6,Ipv6,Ipv6协议
-class_general_l,General Info Check,基本信息 证实
-class_regproducer_l,Regproducer Check,注册出块节点 证实
-class_org_l,Organization Check,机构 证实
-class_endpoint_l,Endpoints Check,是终端 证实
-class_ipv6_l,Ipv6 Check,Ipv6协议 证实
+class_general_l,General Info Check,基本信息 确认
+class_regproducer_l,Regproducer Check,注册的出块节点 确认
+class_org_l,Organization Check,机构 确认
+class_endpoint_l,Endpoints Check,是终端 确认
+class_ipv6_l,Ipv6 Check,Ipv6协议 确认
 check_skip,Skipped,跳过
 check_info,Information,信息
 check_ok,OK,OK
@@ -16,10 +16,10 @@ check_warn,Warning,警告
 check_err,Error,错误
 check_crit,Critical,批评
 bp_top21,Top 21 BP,前21名BP
-bp_standby,Paid Standby BP,有报酬的候选节点
+bp_standby,Paid Standby BP,有报酬候选节点
 bp_other,Not-Paid Standby BP,无报酬候选节点
 title_reports/config,Endpoints config.ini,终端配置初始化
-title_reports/country,Country Report,国家报告
+title_reports/country,Country Report,所属国家报告
 title_reports/endpoints,Endpoints Report,终端报告
 title_reports/errors,Errors Report,错误信息报告
 title_reports/node_types,Node Types Report,节点类型
@@ -31,10 +31,10 @@ label_text_version,text version,文字内容版本
 filter_yes,Yes,是
 filter_na,n/a,无内容
 filter_no,No,不是
-nav_title,bp.json Validator,
-nav_producers,Producer Scorecard,
-nav_reports,Reports,
-nav_data,Data,
-nav_faq,FAQ,
-nav_about,About,
-nav_update,Validator last update: %last_update%,
+nav_title,bp.json Validator,bp.json 验证器
+nav_producers,Producer Scorecard,节点计分卡
+nav_reports,Reports,报告
+nav_data,Data,数据
+nav_faq,FAQ,常见问题
+nav_about,About,关于我们
+nav_update,Validator last update: %last_update%,验证器最后更新： %last_update%
