@@ -19,7 +19,7 @@ bp_top21,Top 21 BP,前21名BP
 bp_standby,Paid Standby BP,有报酬的候选节点
 bp_other,Not-Paid Standby BP,无报酬候选节点
 title_reports/config,Endpoints config.ini,终端配置初始化
-title_reports/country,Country Report,国家报告
+title_reports/country,Country Report,所属国家
 title_reports/endpoints,Endpoints Report,终端报告
 title_reports/errors,Errors Report,错误信息报告
 title_reports/node_types,Node Types Report,节点类型
@@ -31,10 +31,10 @@ label_text_version,text version,文字内容版本
 filter_yes,Yes,是
 filter_na,n/a,无内容
 filter_no,No,不是
-nav_title,bp.json Validator,
-nav_producers,Producer Scorecard,
-nav_reports,Reports,
-nav_data,Data,
-nav_faq,FAQ,
-nav_about,About,
-nav_update,Validator last update: %last_update%,
+nav_title,bp.json Validator,Bp.json 验证器
+nav_producers,Producer Scorecard, 节点计分卡
+nav_reports,Reports,报告
+nav_data,Data,数据
+nav_faq,FAQ,常见问题
+nav_about,About,关于我们
+nav_update,Validator last update: %last_update%,验证器最后更新于 %last_update%
